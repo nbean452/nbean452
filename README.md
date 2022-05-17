@@ -9,6 +9,11 @@ Welcome to this repository! I'm Nicholas and I'm an Indonesian student studying 
 * C# (Unity)
 * Ubuntu (kernel module programming)
 
+# Frameworks I've used
+* Flask
+* SvelteJS
+* VueJS
+
 # 🕰️ Past Projects
 * [Mono](https://globalgamejam.org/2022/games/mono-1) (received "Best AR Game" in Global Game Jam HK 2022)
 * [Punct](https://comp3421-punct.herokuapp.com) ([Github](https://github.com/nicb112/comp3421-fin-project))
@@ -16,6 +21,7 @@ Welcome to this repository! I'm Nicholas and I'm an Indonesian student studying 
 * [Bluxprint landing page](https://nicb112.github.io/bluxprint/)
 
 # 🔭 I’m currently working on
+* Recreating my homepage using SvelteJS over vanila HTML, and CSS!
 * A web-based chat application using SocketIO and Blueprint using Flask (*Chat Bubble*)
 
 # 🌱 I’m currently learning
