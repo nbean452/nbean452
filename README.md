@@ -13,6 +13,8 @@ Welcome to this repository! I'm Nicholas and I'm an Indonesian student studying 
 * Flask
 * SvelteJS
 * VueJS
+* React
+* React Native
 
 # 🕰️ Past Projects
 * [Mono](https://globalgamejam.org/2022/games/mono-1) (received "Best AR Game" in Global Game Jam HK 2022)
@@ -21,15 +23,16 @@ Welcome to this repository! I'm Nicholas and I'm an Indonesian student studying 
 * [Bluxprint landing page](https://nicb112.github.io/bluxprint/)
 
 # 🔭 I’m currently working on
-* Recreating my homepage using SvelteJS over vanila HTML, and CSS!
-* A web-based chat application using SocketIO and Blueprint using Flask (*Chat Bubble*)
+* Recreating my homepage using SvelteJS over vanila HTML, and CSS! Planning on adding some 3D awesomeness to it!
+* Currently interning for the summer period!
 
 # 🌱 I’m currently learning
-* Flask
-* HTML, CSS, JS
+* React
+* React Native
+* NodeJS
 
-# 👯 I’m looking to collaborate on
-* Flask application
+<!-- # 👯 I’m looking to collaborate on
+* Flask application -->
 
 # ✨ Future Projects
 * Recreating a countdown timer website that I had made in the past. This new web application would be able to accept user inputs and choose their own background images and the like!
