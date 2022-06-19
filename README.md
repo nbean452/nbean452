@@ -40,9 +40,9 @@ Welcome to this repository! I'm Nicholas and I'm an Indonesian student studying 
 # 📈 Github Stats
 You can get these cool-looking stats from [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) & [GitHub README Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/)!
 
-[![nicb112's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicb112&hide=issues,prs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![nicb112's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbean452&hide=issues,prs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicb112&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nbean452&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # 📫 How to reach me
 You can find me through these links below!
