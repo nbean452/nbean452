@@ -13,9 +13,9 @@ Welcome to this repository! I'm Nicholas and I'm an Indonesian student studying 
 # Frameworks I've used
 * Flask
 * SvelteJS
-* VueJS (Beginner)
-* React
+* ReactJS
 * React Native
+* NextJS
 
 # 🕰️ Past Projects
 * [Mono](https://globalgamejam.org/2022/games/mono-1) (received "Best AR Game" in Global Game Jam HK 2022)
@@ -25,18 +25,17 @@ Welcome to this repository! I'm Nicholas and I'm an Indonesian student studying 
 * [iProtect](https://www.iprotect.hk)
 
 # 🔭 I’m currently working on
-* Recreating my homepage using SvelteJS over vanila HTML, and CSS! Planning on adding some 3D awesomeness to it!
-* Currently interning for the summer period!
+* Recreating my homepage using NextJS!
 
 # 🌱 I’m currently learning
 * NextJS
 * NodeJS
 
-<!-- # 👯 I’m looking to collaborate on
-* Flask application -->
+<!-- # 👯 I’m looking to collaborate on -->
 
 # ✨ Future Projects
 * Recreating a countdown timer website that I had made in the past. This new web application would be able to accept user inputs and choose their own background images and the like!
+# Work on React Native projects!
 
 # 📈 Github Stats
 You can get these cool-looking stats from [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) & [GitHub README Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/)!
