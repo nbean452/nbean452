@@ -31,11 +31,9 @@ Welcome to this repository! I'm Nicholas and I'm an Indonesian student studying 
 * NextJS
 * NodeJS
 
-<!-- # 👯 I’m looking to collaborate on -->
-
 # ✨ Future Projects
 * Recreating a countdown timer website that I had made in the past. This new web application would be able to accept user inputs and choose their own background images and the like!
-# Work on React Native projects!
+* Work on React Native projects!
 
 # 📈 Github Stats
 You can get these cool-looking stats from [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) & [GitHub README Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/)!
