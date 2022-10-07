@@ -1,7 +1,7 @@
 # 👋 nbean452's repository 
 <!-- ([Homepage](https://nicb112.github.io)) -->
 
-Welcome to this repository! I'm Nicholas and I'm an Indonesian student studying Computing in Hong Kong Polytechnic University! And alongside that, I'm also in the progress of getting a minor in Japanese! I'm interested in learning web development both frontend and backend. For backend, I've been using Flask framework for several past projects. For frontend, I've used ReactJS, NextJS, Svelte!
+Welcome to this repository! I'm Nicholas and I'm an Indonesian student studying Computing in Hong Kong Polytechnic University! And alongside that, I'm also in the progress of getting a minor in Japanese! I'm interested in learning front-end web development.
 
 # 💻 Programming languages I've used
 * HTML, CSS, JS
