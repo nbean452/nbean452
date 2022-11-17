@@ -1,6 +1,8 @@
 # 👋 nbean452's repository 
 <!-- ([Homepage](https://nicb112.github.io)) -->
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nbean452)
+
 Welcome to this repository! I'm Nicholas and I'm an Indonesian student studying Computing in Hong Kong Polytechnic University! And alongside that, I'm also in the progress of getting a minor in Japanese! I'm interested in learning front-end web development.
 
 # 💻 Programming languages I've used
